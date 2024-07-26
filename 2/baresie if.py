@@ -10,4 +10,5 @@ elif (24 >= number >= 5):
     print('khoob')
 elif (4 >= number >= 1):
     print('bad')
-    
+else:
+    print('lotfan beine 1 ta 100 vared konid')
